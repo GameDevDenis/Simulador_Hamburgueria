@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1759432265,
+	"version": 1760310963,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,11 @@
 		"images/sprite16-sheet0.png",
 		"images/fighamburgue-sheet0.png",
 		"images/textodinheiro.png",
+		"images/dialogomenu-sheet0.png",
+		"images/ajudamenu-sheet0.png",
+		"images/fullscreen2-sheet0.png",
+		"images/corujatutoriaisretro-sheet0.png",
+		"images/corujatutoriaisretro-sheet1.png",
 		"media/interior birdecorator decorate.ogg",
 		"icon-16.png",
 		"icon-32.png",
