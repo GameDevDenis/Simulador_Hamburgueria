@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1760310963,
+	"version": 1760317727,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,7 +27,6 @@
 		"images/textodinheiro.png",
 		"images/dialogomenu-sheet0.png",
 		"images/ajudamenu-sheet0.png",
-		"images/fullscreen2-sheet0.png",
 		"images/corujatutoriaisretro-sheet0.png",
 		"images/corujatutoriaisretro-sheet1.png",
 		"media/interior birdecorator decorate.ogg",
